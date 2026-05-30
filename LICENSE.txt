@@ -13,4 +13,4 @@ Breeze Client. Minecraft Java Edition client.
 
 
 TAGS
-breeze, breeze-client, minecraft-client, minecraft-java                                
+breeze, breeze-client, minecraft-client, minecraft-java                                 
